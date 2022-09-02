@@ -279,6 +279,5 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors :black_nib:
-* **Gedeon Obae Gekonge** <[Gedeonobae](https://github.com/Gedeonobae)>
+* **Linet Muchunu** <[Linet](https://github.com/Linet -001)>
 
-* **Bruno kwemoi**  <[bruno-kwemoi](https://github.com/bruno-kwemoi)>
